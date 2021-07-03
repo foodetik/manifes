@@ -1,0 +1,38 @@
+{
+  "name": "FOODetik",
+  "short_name": "FOODetik",
+  "start_url": "https://www.foodetik.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s48/fooddetik.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s72/fooddetik.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s96/fooddetik.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s144/fooddetik.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s168/fooddetik.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s192/fooddetik.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tIx4V2Evjvk/YOBZhq-Up9I/AAAAAAAAAAU/nKQxLexi8YoqEqC_EK4kl1xpwnkkRpL-wCLcBGAsYHQ/s512/fooddetik.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
